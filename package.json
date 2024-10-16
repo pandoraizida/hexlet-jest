@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandoraizida/hexlet-jest.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "e.kochetova",
+  "license": "ISC",
+  "description": "Study jest",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
