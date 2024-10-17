@@ -7,7 +7,7 @@
     "url": "git+https://github.com/pandoraizida/hexlet-jest.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
   },
   "type": "module",
   "author": "e.kochetova",
